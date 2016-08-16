@@ -2,6 +2,7 @@ name: CFN Church
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.48963
+title: CFN Church
 cta:
   domain: null
   bucket: null
